@@ -1,4 +1,5 @@
-baseURL: http://example.org/note
+baseURL: http://example.org/note/
 languageCode: en-us
 title: My New Hugo Site
 publishDir: docs
+theme: PaperMod
